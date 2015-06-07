@@ -1,9 +1,26 @@
 {
-     "name": "mukhin_chat",
-     "description": "example chat application with socket.io",
-     "version": "0.0.1",
-     "dependencies": {
-        "express": "",
-        "socket.io": ""
-     }
+  "name": "mhtkmr54",
+  "description": "example chat application with socket.io",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "",
+    "socket.io": ""
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhtkmr54/chat_room.git"
+  },
+  "keywords": [
+    "chat_room"
+  ],
+  "author": "mhtkmr54",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mhtkmr54/chat_room/issues"
+  }
 }
