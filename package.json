@@ -6,19 +6,27 @@
     "express": "",
     "socket.io": ""
   },
+
+
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
     "start": "node app.js",
     "test": ""
   },
+
+
   "repository": {
     "type": "git",
     "url": "https://github.com/mhtkmr54/chat_room.git"
   },
+
+
   "keywords": [
     "chat_room"
   ],
+
+
   "author": "mhtkmr54",
   "license": "BSD-2-Clause",
   "bugs": {
